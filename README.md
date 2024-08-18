@@ -1,4 +1,4 @@
-# ExpenseManager Mobile Application (Work in Progress)
+# ExpenseManager Mobile Application
 
 The ExpenseManager is a mobile application designed for academic purposes to help users manage their finances by tracking their income, expenses, and calculating their balance. This project serves as a foundation for learning and implementing additional functionalities.
 
