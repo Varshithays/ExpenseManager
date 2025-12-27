@@ -9,7 +9,7 @@
 The **ExpenseManager** is a native Android application developed to provide a lightweight and efficient solution for personal finance management. It allows users to track their daily income and expenditures, maintain a historical log of transactions, and view their real-time net balance. This project highlights the implementation of **local data persistence** and **dynamic UI updates** in a mobile environment.
 
 ## 📱 Application Preview
-> <img src="[YOUR_IMAGE_LINK_HERE]" width="300" alt="Expense Manager App Screenshot" />
+> <img width="562" height="747" alt="image" src="https://github.com/user-attachments/assets/6c09a976-fb58-468a-a82f-1059556d9c6c" />
 >
 > **Figure 1: Main Dashboard showing transaction history and balance calculation.**
 
